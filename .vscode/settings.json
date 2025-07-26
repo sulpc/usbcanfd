@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.defines": [
+        "STM32G431xx"
+    ],
+    "files.exclude": {
+        "Debug/": true
+    }
+}
